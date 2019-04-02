@@ -2,7 +2,7 @@
 
 [Blog](https://psyhedeliq.github.io/blog/) 
 
-This is a dashboard/backed to a blog. 
+This is a dashboard/backend type theme to a blog. 
 
 ## Getting Started ##
 
